@@ -1,0 +1,2 @@
+ COMP 3104 is a course focused on DevOps practices,
+  emphasizing continuous integration, automated testing, and deployment strategies.
