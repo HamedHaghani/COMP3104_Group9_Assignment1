@@ -4,3 +4,6 @@ COMP 3104 DevOps is a course focused on teaching the principles of continuous in
 New context:
 
 The course focuses heavily on automation, cloud computing, and using DevOps practices to improve software quality and deployment speed.
+
+
+Tools covered in this course include Git for version control, Jenkins for continuous integration, and Docker for containerization.
