@@ -10,3 +10,6 @@ Tools covered in this course include Git for version control, Jenkins for contin
 
 
 By the end of the course, students are expected to understand how to streamline software development processes and deploy applications efficiently.
+
+
+In conclusion, DevOps continues to be an essential methodology in modern software development, enabling companies to stay competitive in a rapidly evolving tech landscape.
