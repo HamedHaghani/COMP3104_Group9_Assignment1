@@ -1,1 +1,6 @@
 COMP 3104 DevOps is a course focused on teaching the principles of continuous integration, continuous delivery, and the automation of software development and deployment processes. The course covers tools such as Git, Jenkins, Docker, and Kubernetes.
+
+
+New context:
+
+The course focuses heavily on automation, cloud computing, and using DevOps practices to improve software quality and deployment speed.
