@@ -7,3 +7,6 @@ The course focuses heavily on automation, cloud computing, and using DevOps prac
 
 
 Tools covered in this course include Git for version control, Jenkins for continuous integration, and Docker for containerization.
+
+
+By the end of the course, students are expected to understand how to streamline software development processes and deploy applications efficiently.
