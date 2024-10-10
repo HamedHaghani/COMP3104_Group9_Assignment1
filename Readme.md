@@ -4,7 +4,7 @@
 
 - **Leader:** Hamed Haghani (101406701) - [GitHub](https://github.com/HamedHaghani)
 - **Member 2:** Dorsa Mohammadi (101397591) - [GitHub](https://github.com/dorsa2001)
-- **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 3:** Yasaman Mirvahabi Sabet (101217770) - [GitHub](https://github.com/YasamanMVS)
 
 ## Project Description
 
